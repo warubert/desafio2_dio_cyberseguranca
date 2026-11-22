@@ -27,3 +27,7 @@ Rodar com envio de e-mail:
 ```bash
 python keylogger/keylogger_email.pyw
 ```
+
+## Defesas
+
+antivírus, firewall, sandboxing, conscientização do usuário
